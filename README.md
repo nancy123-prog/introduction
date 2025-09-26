@@ -8,4 +8,5 @@ Introduction to backend development hello
  <ins>Sql Databases</ins>
  ~~Nancy~~
    |S.no|Date|Topic of Project|Remarks|
-   |---|---|---|---|
+   |---|:---:|:---:|---|
+   |1|09-09-2025|git |CUI using Vs code|
