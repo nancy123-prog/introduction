@@ -10,3 +10,6 @@ Introduction to backend development hello
    |S.no|Date|Topic of Project|Remarks|
    |---|:---:|:---:|---|
    |1|09-09-2025|git |CUI using Vs code|
+   |1|09-09-2025|Web designing |CUI using Vs code|
+   |1|09-09-2025|Java|CUI using Vs code|
+   |1|09-09-2025|Javascript |CUI using Vs code|
